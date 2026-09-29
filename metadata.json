@@ -1,0 +1,6 @@
+{
+  "name": "CinePro 4K",
+  "description": "Professional 4K UHD video recording and graphics studio with manual controls, real-time shaders, multi-track timeline editor, and high bitrate export.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

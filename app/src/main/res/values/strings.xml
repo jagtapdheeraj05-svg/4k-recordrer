@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">CinePro 4K</string>
+    <string name="record">Record</string>
+    <string name="editor">Editor</string>
+    <string name="gallery">Gallery</string>
+    <string name="settings">Settings</string>
+</resources>
